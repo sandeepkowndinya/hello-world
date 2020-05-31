@@ -130,14 +130,15 @@ body {
 <div class="row">
   <div class="side">
     <h2>Tools Used<h2>
-    <div class="fakeimg" style="height:60px;">Git/Github</div><br>
-    <div class="fakeimg" style="height:60px;">Jenkins</div><br>
-    <div class="fakeimg" style="height:60px;">Ansible</div><br>
-	<div class="fakeimg" style="height:60px;">Docker</div>
+    <h4> Git/Github </h4>
+    <h4> Jenkins </h4>
+    <h4> Ansible </h4>
+    <h4> Docker </h4>
+    <h4> Kubernetes </h4>
   </div>
   <div class="main">
     <h2>ABOUT DEVOPS</h2>
-    <div class="fakeimg" style="height:100px;">DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality</div>
+    <div class="fakeimg" style="height:60px;">DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality</div>
     <h1>About Tools<h1>
     <h4> Git/Github for source code repository </h4>
     <h4> Jenkins for doing the integration </h4>
