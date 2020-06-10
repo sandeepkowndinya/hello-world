@@ -142,6 +142,7 @@ body {
   </div>
   <div class="main">
     <h1>About Tools<h1>
+    <h1> Welcome to DEVOPS PIPELINE DEMO <h1>
     <h4> Git/Github for source code repository </h4>
     <h4> Jenkins for doing the integration </h4>
     <h4> Ansible for doing the deployment </h4>
