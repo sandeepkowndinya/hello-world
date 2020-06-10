@@ -146,7 +146,7 @@ body {
     <h4> Jenkins for doing the integration </h4>
     <h4> Ansible for doing the deployment </h4>
     <h4> Docker for containerization </h4>
-    <h4> Kubernetes for container orchestration </h4>
+    <h4> Kubernetes for container orchestration and high availablility </h4>
     <br>
   </div>
 </div>
